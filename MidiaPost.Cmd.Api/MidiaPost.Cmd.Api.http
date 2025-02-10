@@ -1,0 +1,6 @@
+@MidiaPost.Cmd.Api_HostAddress = http://localhost:5234
+
+GET {{MidiaPost.Cmd.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

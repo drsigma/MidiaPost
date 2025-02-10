@@ -1,0 +1,6 @@
+﻿namespace MidiaPost.Cmd.Api
+{
+    public class MidiaPost
+    {
+    }
+}
